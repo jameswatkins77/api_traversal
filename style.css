@@ -4,9 +4,23 @@
 }
 
 #container{
-
+  text-align: center;
 }
 
 #center_column{
-  
+  text-align: center;
+  color: green;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+img{
+  width: 150px;
+  height: 221px;
 }
